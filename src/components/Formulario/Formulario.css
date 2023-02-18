@@ -1,0 +1,18 @@
+.form-cadastro {
+    margin: 80px 0;
+
+    display: flex;
+    justify-content: center;
+}
+
+.form-cadastro form {
+    max-width: 80%;
+    background-color: #f2f2f2;
+    border-radius: 20px;
+    padding: 36px 64px;
+    box-shadow: 7px 7px 15px rgba(0, 0, 0, 0.08);
+}
+
+.form-cadastro h2 {
+    margin: 40px 0;
+}
